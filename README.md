@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 - 🔐 Building security-focused tools  
-- 🤖 Creator of **tanako-bot**  
+- 🤖 Creator of **tanako-bot ; koto-sploit ; hee-r3 encryption and tsukishiro hashing algo**
 - ⚙️ Love automation & scalable systems  
 - 🧠 Interested in distributed architecture & backend engineering  
 
@@ -46,7 +46,14 @@ Built with scalable microservice architecture.
 </p>
 
 ---
+## Top Lang
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saewool&layout=compact&theme=tokyonight" />
+</p>
+---
 
 ## 📫 Contact
 
 - Discord: trang_tien
+- Facebook : Nanatsukaze Hoshino
+- Gmail: nanatsukazeharu@gmail.com
