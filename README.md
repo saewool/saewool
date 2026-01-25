@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Tanako</h1>
+<h1 align="center">👋 Hi, I'm Haru</h1>
 <p align="center">
   Security • Automation • Discord Bots • Cryptography
 </p>
