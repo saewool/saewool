@@ -11,7 +11,8 @@
 - 🤖 Creator of **tanako-bot ; koto-sploit ; hee-r3 encryption and tsukishiro hashing algo**
 - ⚙️ Love automation & scalable systems  
 - 🧠 Interested in distributed architecture & backend engineering  
-
+- **Real name** : 天野 琴葉 (あまの たかこ)
+- 
 ---
 
 ## 🛠 Tech Stack
@@ -48,12 +49,11 @@ Built with scalable microservice architecture.
 ---
 ## Top Lang
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saewool&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saewool&layout=compact&theme=tokyonight"/>
 </p>
 ---
 
 ## 📫 Contact
 
-- Discord: trang_tien
 - Facebook : Nanatsukaze Hoshino
 - Gmail: nanatsukazeharu@gmail.com
