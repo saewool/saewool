@@ -12,7 +12,8 @@
 - ⚙️ Love automation & scalable systems  
 - 🧠 Interested in distributed architecture & backend engineering  
 - **Real name** : 天野 琴葉 (あまの たかこ)
-- 
+- **Age** : 20
+
 ---
 
 ## 🛠 Tech Stack
