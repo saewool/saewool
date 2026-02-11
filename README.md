@@ -11,8 +11,8 @@
 - 🤖 Creator of **tanako-bot ; koto-sploit ; hee-r3 encryption and tsukishiro hashing algo**
 - ⚙️ Love automation & scalable systems  
 - 🧠 Interested in distributed architecture & backend engineering  
-- **Real name** : 天野 琴葉 (あまの たかこ)
-- **Age** : 20
+- Rfu name : Miyazono Kuninaru
+- aeg : 20
 
 ---
 
